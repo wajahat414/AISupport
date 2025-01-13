@@ -1,0 +1,39 @@
+{
+    "client_terms_and_conditions": {
+        "last_updated": "31st July 2023",
+        "intro": "These Terms and Conditions (hereinafter referred to as “Terms” or “Terms of Use”) is entered between you (hereinafter referred to as “you” or “your”) and Unicoin Digital Capital Exchange (UDCX) (hereinafter referred as “Unicoin”) that applies to the Client’s use of any and all Services, products, and content provided by Unicoin.",
+        "disclaimer": "As with any asset, the values of Digital Currencies may fluctuate significantly and there is a substantial risk of economic losses when purchasing, selling, holding, or investing in Digital Currencies and their derivatives.",
+        "agreement": "By accessing, downloading, using or clicking on “I agree” to accept any of our services, you agree that you have read, understood, and accept all the terms and conditions contained in these Terms as well as our Privacy Policy.",
+        "risks_acknowledgment": "You acknowledge and agree that you are aware of the risks associated with transactions of digital currencies and their derivatives."
+    },
+    "definitions": {
+        "account": "An account registered by the Client on Unicoin.",
+        "aml": "Anti-Money Laundering, including all applicable laws prohibiting money laundering and other illicit activities.",
+        "arbitration": "A process of redressing any issues or disputes in the trading platform under the provision of these terms, Law of Arbitration in Malaysia & Arbitration rules of the Asian International Arbitration Centre.",
+        "broker": "A person or entity authorized to introduce Clients by Unicoin or Members in accordance with criteria prescribed by Unicoin.",
+        "buyer": "The Client who submits an Order to buy Cryptocurrencies and/or Contracts through Unicoin.",
+        "cryptocurrency": "A peer-to-peer decentralized digital representation of value (e.g., bitcoins, ethers, etc.).",
+        "deposit": "Funds deposited by Members, Brokers, or Clients to the Account as prescribed by Unicoin."
+    },
+    "fees_and_charges": {
+        "commission": "A fee charged by Unicoin or on behalf of any other parties.",
+        "transaction_fee": "A fee which is payable to Unicoin for each completed Transaction or executed Order.",
+        "rollover_fee": "Estimated fee or charges that are charged by Unicoin from the Client’s balance to rollover a position.",
+        "transaction_price": "The total price paid by the Buyer in respect to each Transaction or the value of a Contract or the price of the Unit of Quotation for the contract performed via the Services."
+    },
+    "services": {
+        "platform": "An environment created by Unicoin that allows trading Cryptocurrencies and/or Contracts.",
+        "storage": "Unicoin Services, which includes storing balances (in Fiat currency and/or in Cryptocurrency) from abandoned Accounts, no longer supported cryptocurrencies, and/or Contracts.",
+        "margin_trading": "Leverage trading where the Client may trade with borrowed Funds instead of his/her own (i.e., open a position using less of their own Funds than the actual amount of this position)."
+    },
+    "dispute_resolution": {
+        "arbitration": "A process of resolving issues or disputes in the trading platform under the laws of Arbitration in Malaysia & Arbitration rules of the Asian International Arbitration Centre.",
+        "conciliator": "A mediator appointed by Unicoin and/or mutually agreed by the parties to mediate any disputes among Members, Customers, and Unicoin."
+    },
+    "supplementary_terms": {
+        "rapid_development": "Due to the rapid development of virtual assets as well as virtual currencies, these terms do not enumerate or cover all rights and obligations of each party, and do not guarantee full alignment with needs arising from future development."
+    },
+    "scope_of_services": {
+        "general_scope": "The scope of services provided by Unicoin to the Clients, including trading, storage, and access to the platform."
+    }
+}

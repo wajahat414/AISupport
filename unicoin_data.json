@@ -1,0 +1,105 @@
+{
+    "type": "object",
+    "properties": {
+        "platform_info": {
+            "type": "object",
+            "properties": {
+                "platform_name": "UnicoinDCX",
+                "service_description": "UnicoinDCX offers a powerful trading platform with real-time charts, multiple order types, and advanced analytical tools. It supports spot trading, margin trading, and futures, providing a seamless experience across all devices.",
+                "terms_and_conditions": {
+                    "type": "object",
+                    "properties": {
+                        "last_updated": "2025-01-01",
+                        "sections": [
+                            {
+                                "section_name": "Getting Started with Crypto Trading",
+                                "content": "Cryptocurrency trading has quickly evolved from a niche market to a global phenomenon, attracting everyone from individual investors to institutional players.",
+                                "faq": [
+                                    {
+                                        "question": "What is cryptocurrency trading?",
+                                        "answer": "It is the act of buying and selling cryptocurrencies directly, or through derivatives."
+                                    }
+                                ],
+                                "description": "Learn how to start trading cryptocurrencies effectively."
+                            },
+                            {
+                                "section_name": "Top Security Practices to Keep Your Crypto Safe",
+                                "content": "The promise of financial freedom comes with a heightened responsibility: securing your assets. Unlike traditional banking, the security measures must be taken seriously.",
+                                "faq": [
+                                    {
+                                        "question": "How can I secure my crypto assets?",
+                                        "answer": "Use Multi-Factor Authentication (MFA), cold storage, and be aware of phishing scams."
+                                    }
+                                ],
+                                "description": "Essential practices for ensuring the safety of your investments."
+                            },
+                            {
+                                "section_name": "Tips for Managing Risk in a Fluctuating Market",
+                                "content": "In the volatile world of cryptocurrency trading, managing risk effectively is paramount.",
+                                "faq": [
+                                    {
+                                        "question": "What are the key strategies for risk management?",
+                                        "answer": "Diversify your portfolio, set stop-loss orders, and do thorough research before investing."
+                                    }
+                                ],
+                                "description": "Learn how to navigate the risks associated with trading."
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "contact_details": {
+            "type": "object",
+            "properties": {
+                "support_email": "support@unicoin.com",
+                "support_phone": "+1-800-123-4567",
+                "faq_url": "https://unicoin.com/faq"
+            }
+        },
+        "platform_stats": {
+            "type": "object",
+            "properties": {
+                "users": "10k+ Users",
+                "countries_supported": "200+ Countries Supported",
+                "volume_traded": "100,000 Volume Traded",
+                "assets_on_platform": "100 Assets on platform",
+                "maker_taker_fees": "Industry\u2019s Lowest Maker & Taker Fees"
+            }
+        },
+        "trading_options": {
+            "type": "object",
+            "properties": {
+                "trading_types": [
+                    "Spot Trading",
+                    "Derivatives Trading",
+                    "Hold & Earn"
+                ],
+                "features": {
+                    "real_time_data": "Live market updates, in-depth charts, and comprehensive analytics.",
+                    "flexible_trading_options": "Execute spot, margin, or futures trades.",
+                    "cross_platform": "Transition between desktop and mobile devices."
+                }
+            }
+        },
+        "promotions": {
+            "type": "object",
+            "properties": {
+                "signup_bonus": "$5 on Sign-Up",
+                "discounts": "Use $UNIQ tokens for transaction fees.",
+                "transparent_pricing": "No hidden charges - what you see is what you get."
+            }
+        },
+        "legal": {
+            "type": "object",
+            "properties": {
+                "high_risk_warning": "Complex financial products such as Contracts for Difference (\u2018CFDs\u2019), Virtual Assets etc. that are traded on margin or otherwise, carry a high degree of risk.",
+                "jurisdictional_restrictions": "We do not offer our services to residents of certain jurisdictions such as DPRK, Iran, Afghanistan."
+            }
+        }
+    },
+    "metadata": {
+        "source": "UnicoinDcxPlatfromInfo",
+        "timestamp": "2025-01-13T16:53:31.719311"
+    }
+}
