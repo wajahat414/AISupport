@@ -5,10 +5,6 @@ from openai import OpenAI
 from datetime import datetime
 import os
 
-client = OpenAI(
-    api_key="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"
-)
-
 
 url = "https://www.unicoindcx.com"
 
