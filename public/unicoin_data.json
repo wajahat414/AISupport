@@ -89,7 +89,7 @@
                 "discounts": "Use $UNIQ tokens for transaction fees.",
                 "transparent_pricing": "No hidden charges - what you see is what you get."
             }
-        },
+        }, 
         "legal": {
             "type": "object",
             "properties": {

@@ -7,7 +7,7 @@ const getWeather = (location) => {
   return {
     location: location,
     temperature: randomTemperature,
-    unit: "F",
+    unit: "X",
     conditions: conditions[randomConditionIndex],
   };
 };
